@@ -1,4 +1,4 @@
-name: 'Call actions to pre-process config files and execute/convert notebook'
+name: 'Build notebook'
 
 env:
     PYTHON-VERSION: "3.12"
