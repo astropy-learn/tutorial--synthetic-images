@@ -1,1 +1,1 @@
-AUTHOR1 (@GITHUB-USERNAME, ORCID-ID), AUTHOR2 (@GITHUB-USERNAME, ORCID-ID)
+Yi-Hao Chen, Sebastian Heinz, Kelle Cruz, Stephanie T. Douglas
